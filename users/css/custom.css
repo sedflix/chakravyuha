@@ -1,0 +1,9 @@
+.title, .nav
+{
+	font-family: 'Flamenco', cursive;
+	text-decoration:none;
+	color:#DAD2FB;
+}
+.nav{
+	background-color:transparent;
+}
